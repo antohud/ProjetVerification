@@ -1,0 +1,67 @@
+.erreur {
+    color: red;
+}
+
+h1 {
+	font-size: 2.7em;
+	margin-bottom: 20px;
+}
+
+.connexion {
+	width: 500px;
+	margin: auto;
+	margin-top: 40px;
+}
+
+.deconnexion {
+	text-align: center;
+	margin-top: 40px;
+}
+
+.deconnexion span {
+	display: block;
+	margin-bottom: 20px;
+}
+
+.ajouter-usager {
+	position: relative;
+	left: 155px;
+	bottom: 51px;
+}
+
+.projet-menu {
+	float: left;
+	margin-right: 20px;
+}
+
+#info_projet {
+    margin-left: 240px;
+    margin-right: 50px;
+    max-width: 1000px;
+    
+}
+
+.ui.definition.table {
+	margin-top: 0px;
+}
+
+.td-info {
+    width: 150px;
+}
+
+.content > p {
+	text-align: center;
+}
+
+.container {
+	margin: 40px 50px;
+
+}
+
+.info-btn {
+	margin-left: 20px;
+}
+
+.inscription-bouton {
+	text-align: right;
+}
